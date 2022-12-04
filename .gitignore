@@ -10,6 +10,14 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+/MultiFunctionGameFramework/[Ll]ibrary/
+/MultiFunctionGameFramework/[Tt]emp/
+/MultiFunctionGameFramework/[Oo]bj/
+/MultiFunctionGameFramework/[Bb]uild/
+/MultiFunctionGameFramework/[Bb]uilds/
+/MultiFunctionGameFramework/[Ll]ogs/
+/MultiFunctionGameFramework/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
